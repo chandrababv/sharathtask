@@ -7,7 +7,7 @@ http {
         root /usr/share/nginx/html;
         index index.html;
         location / {
-            try_files  /index.html;
+            try_es  /index.html;
         }
     }
 }
