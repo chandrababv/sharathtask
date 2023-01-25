@@ -1,5 +1,9 @@
 hello
+<<<<<<< HEAD
 hello
 hello
 hello
 hello
+=======
+world
+>>>>>>> feature1
